@@ -1,6 +1,8 @@
 # sql-challenge
 
-# Employees database and analysis 
+# Employees database 
+
+![QuickDBD-Free Diagram](https://user-images.githubusercontent.com/64176733/85352672-55d30c00-b4bb-11ea-85fd-73eed0ee0f95.png)
 
 Table_schema.sql file.- code to create the tables.                                                                                       
 Queries.sql file .- code to extract the next information:                                                                             
