@@ -2,8 +2,8 @@
 
 # Employees database and analysis 
 
-Table_schema.- code to create the tables.                                                                                        
-Queries.- code to extract the next information:                                                                             
+Table_schema.sql file.- code to create the tables.                                                                                       
+Queries.sql file .- code to extract the next information:                                                                             
 1.-List the following details of each employee: employee number, last name, first name, sex, and salary.
 
 2.-List first name, last name, and hire date for employees who were hired in 1986.
@@ -20,5 +20,11 @@ Queries.- code to extract the next information:
 
 8.-In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
 
+## Dependencies and Setup
+Matplotlib.pyplot, pandas,sqlalchemy.create_engine
+
+## Modules to install 
+sqlalchemy,psycopg2
+
 ## Resources 
-PostgreSQL, QuickDatabaseDiagrams, python 
+csv files to fill the tables.  
